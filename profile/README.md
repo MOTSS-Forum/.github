@@ -4,8 +4,8 @@
 
 <img src="https://motss.cc/34d81d63fc27cfbe190bbcb3c6c5412c65b04086.png" alt="酷儿论坛 Logo" style="width:240px"/>
 
-- [酷儿论坛 - 延续十九年的集体记忆](https://motss.cc/library/article/延续十九年的集体记忆/)
-- [**冒刺图书馆**](https://motss.cc/library/) (WIP)
+- [酷儿论坛 - 延续十九年的集体记忆](https://motss.cc/article/延续十九年的集体记忆/)
+- [**酷儿论坛工作主页**](https://motss.cc/) (WIP)
 - [论坛主站](https://forum.motss.cc)
 - [推文存档](https://motss.cc/archives/) (考古 only)
 - [捐赠](https://motss.cc/support/)
